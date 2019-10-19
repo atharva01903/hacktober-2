@@ -6,7 +6,12 @@ int main()
 	printf("diff =%d",a+b);
 	return 0;
 }
+int sum(int a,int b)
+{
+	return a+b;
+}
 int diff(int a,int b)
 {
-	return a-b;
+        return a-b;
 }
+
